@@ -1,0 +1,8 @@
+{
+    "source_folders":["C:\\Business Planner\\","C:\\Live\\"],
+    "target_folders":["D:\\TaskBackup\\BP\\","D:\\TaskBackup\\WF\\"],
+    "ignore_folders":["Config","Console","Documents","Dropbox","ESignImageFolder","EsignSampleTemplate","Exception_log_file","FormData","FormsHTML","FormsMetadata","Googledrive",
+        "icons","Images","ImgFolder","OneDrive","Output","packages","PreviewImageFolder","Smartsheet","SupportFiles","TempFiles",".metadata",".recommenders","RemoteSystemsTempFiles",
+        "Servers2",".vs"],
+    "ignore_flag":"true"
+}
